@@ -1,0 +1,4 @@
+interface:
+  display_name: "自然表达编辑器"
+  short_description: "Edit Chinese and English writing with a natural personal voice"
+  default_prompt: "Use $natural-writing-editor to revise this draft while preserving meaning and voice."
